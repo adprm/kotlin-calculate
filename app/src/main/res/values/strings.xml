@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DicodingApp</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="myname">Adit Tampan Hitung volome balok</string>
+</resources>
